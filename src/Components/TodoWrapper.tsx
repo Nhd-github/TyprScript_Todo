@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Todo from './Todo'
 import TodoForm from './TodoForm'
 import { Todo as TodoType } from './Todos.types'
